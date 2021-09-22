@@ -1,2 +1,2 @@
 # Crossplatform Cloud App Development
-## Волохов Никита Алексеевич
+## Волохов Никита Алексеевич, navolokhov@edu.hse.ru
